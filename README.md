@@ -47,7 +47,7 @@ Based on the insights gained, the following key business takeaways emerge:
 
 ## Methodology
 
-The analysis was conducted using Power BI and python. The data source used for this analysis is [ provided by my  Professor ].
+The analysis was conducted using Power BI. The data source used for this analysis is [ provided by my  Professor ].
 
 ## Additional Considerations
 
