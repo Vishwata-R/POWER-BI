@@ -1,7 +1,7 @@
  **Credit Card and Customer Analysis**
 
 
-# Credit Card Customer Analysis
+# Credit Card and Customer Analysis
 
 This repository contains a comprehensive analysis of credit card customer data, providing valuable insights into revenue trends, customer behaviour, and risk management. The analysis is based on a dataset of customer demographics, financial behaviour, and credit card usage. The visualizations and analysis were created using Power BI.
 
