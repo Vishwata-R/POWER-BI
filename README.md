@@ -47,11 +47,11 @@ Based on the insights gained, the following key business takeaways emerge:
 
 ## Methodology
 
-The analysis was conducted using Power BI. The data source used for this analysis is [ provided by my  Professor ].
+The analysis was conducted using Power BI and python. The data source used for this analysis is [ provided by my  Professor ].
 
 ## Additional Considerations
 
-Data is refreshed [daily/weekly] to provide up-to-date insights for decision-making. The insights derived from this dashboard provide actionable information for strategic decision-making in areas such as marketing, product development, and risk management.  These insights facilitate effective customer segmentation, enabling personalized marketing campaigns and tailored financial product offerings.
+Data is refreshed [monthly] to provide up-to-date insights for decision-making. The insights derived from this dashboard provide actionable information for strategic decision-making in areas such as marketing, product development, and risk management.  These insights facilitate effective customer segmentation, enabling personalized marketing campaigns and tailored financial product offerings.
 
 ## How to Use This Repository
 
